@@ -1,6 +1,6 @@
 //The URIs of the REST endpoint
 IUPS = "https://prod-14.centralus.logic.azure.com:443/workflows/e17d038128c747aea4d089cd4568488a/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=giJknAqAnRazuYWKFUvXIDuaM2HRO6yolZpKX6p2gvQ";
-RAI = "https://prod-44.northeurope.logic.azure.com:443/workflows/2fa2c176aaee460d9900c4b5fbeeb5c7/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=VmmFbvXRl0m-E6rCOSh1IEBLcR7BPAYdUTJfiqty1f0";
+RAI = "https://prod-08.centralus.logic.azure.com:443/workflows/5209be09b0b247118255ea4aca3cb235/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=4xmpZ2w19wouJZZI1oW41hjt8QbZQY0N6PlOMlTkgMw";
 
 BLOB_ACCOUNT = "https://blobstoragecom682af.blob.core.windows.net";
 
